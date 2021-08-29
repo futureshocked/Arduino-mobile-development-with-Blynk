@@ -1,3 +1,11 @@
+/*  Arduino Mobile Development With Blynk
+   This code is part of a course from Tech Explorations.
+   For information about this course, please see
+   https://techexplorations.com/so/blynk/
+   For information on hardware components and the wiring needed to
+   run this sketch, please see the relevant lecture in the course.
+    Created by Peter Dalmaris
+*/
 /*************************************************************
   Download latest Blynk library here:
     https://github.com/blynkkk/blynk-library/releases/latest
